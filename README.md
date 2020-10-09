@@ -6,9 +6,8 @@ The project participants include:
 Jing Sun and
 Endrias Getachew Asgedom
 
-Directory overview:
-Project-1 ---> Report, Results, Tests, Unit Tests, and src
 
+# Project-1 
 Report---> Contains our report file (PDF and Latex)
 
 Results---> Contain all the results of project-1 (Figures and Tabels)
