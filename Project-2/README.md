@@ -6,7 +6,9 @@ All the analysis presented in our report can be reproduced by using our python c
 
 ## Folder structure 
 Report  ---> Contains our report file (PDF and Latex)
+
 Figures ---> Contain all the results of project-2 (Figures and Tabels)
+
 src     ---> Contain all the python codes and the corresponding Jupyther notebooks 
 
 ## Running the codes
