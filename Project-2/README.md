@@ -15,8 +15,9 @@ src     ---> Contain all the python codes and the corresponding Jupyther noteboo
 The Jupyther notebooks contain all the analysis we did and they can be run cell by cell
 
 The unit tests can be run by writting the following comand: 
+```
 pytest -v
-
+```
 
 ## Authors
 Jing Sun and
