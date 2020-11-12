@@ -1,14 +1,15 @@
 
-## FYS-STK4155 project 2 
-We investigate regression and classification problems using a noise contaminated Franke function and the MNIST dataset. To solve the regression problem, we use a fully connected neural network (NN) and Stochastic Gradient Descent (SGD)-based Ordinary Least Square (OLS) and Ridge regression methods.
+# FYS-STK4155 project 2 
+In this project, we investigate regression and classification problems. We use the Franke function and the MNIST as data sets. To solve the regression problem, we use a fully connected neural network (NN) and Stochastic Gradient Descent (SGD)-based Ordinary Least Square (OLS) and Ridge regression methods. The classification problem is solved using NNs and multinominal logistic regression.
 
-Our report can be read at report2_fysstk_magnubgr_michaesb.pdf and this is where we present our findings.
+All the analysis presented in our report can be reproduced by using our python codes and the corresponding Jupyther notebook.
 
-Here we have made two packages; one called Regression_package and one called NeuralNet_package. The Regression_package contains Linear Regression which has 3 methods (OLS, Ridge and Lasso) and LogisticRegressor which uses a gradient descent to minimize the loss function. The Linear Regression methods are taking from a previous project.
+## Folder structure 
+Report  ---> Contains our report file (PDF and Latex)
+Figures ---> Contain all the results of project-2 (Figures and Tabels)
+src     ---> Contain all the python codes and the corresponding Jupyther notebooks 
 
-The NeuralNet_package contains a classifying NeuralNet and regression NeuralNet. NeuralNet_package is designed to be very similiar to how you would use Scikit-Learns package on NeuralNet.
-
-Running the scripts
+## Running the codes
 The following scripts can be run to test our different machine learning methods:
 
 logreg_plots.py
@@ -28,6 +29,6 @@ We have a test file that runs multiple tests on the Regression_package and Neura
 pytest -v
 This will test both packages with test on for example R2-score, sigmoidfunction and so on.
 
-Authors
-Michael Bitney
-Magnus Grøndalen
+## Authors
+Jing Sun and
+Endrias Getachew Asgedom
