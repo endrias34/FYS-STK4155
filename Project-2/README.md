@@ -11,7 +11,7 @@ Figures ---> Contain all the results of project-2 (Figures and Tabels)
 
 src     ---> Contain all the python codes and the corresponding Jupyther notebooks 
 
-# Unit test codes: 
+### Unit test codes: 
 
 test_MultiClass.py
 
@@ -19,13 +19,13 @@ test_NN_regression.py
 
 test_linear_regression.py
 
-# Linear regression codes: 
-
-LinearReg.py
+### Linear regression codes: 
 
 Linear_Regression.ipynb
 
-# NN regression codes: 
+LinearReg.py
+
+### NN regression codes: 
 
 NN_Regression.ipynb
 
@@ -35,7 +35,7 @@ functions_NN.py
 
 functions.py
 
-# Softmax regression codes: 
+### Softmax regression codes: 
 
 MultiClass_LogesticRegression.ipynb
 
