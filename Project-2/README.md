@@ -41,7 +41,7 @@ MultiClass_LogesticRegression.ipynb
 
 MCLogReg.py
 
-# NN classification codes: 
+### NN classification codes: 
 
 MultiClass_NN.ipynb
 
