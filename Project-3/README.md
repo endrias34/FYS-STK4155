@@ -38,11 +38,7 @@ autoencoder_l2.py
 
 ### Unit test codes: 
 
-test_MultiClass.py
-
-test_NN_regression.py
-
-test_linear_regression.py
+unit_test.py
 
 ## Running the codes
 
